@@ -7,3 +7,7 @@ Created on Wed Nov 16 22:37:58 2022
 
 def hello():
     print("Hello")
+    
+    
+def summ(a, b):
+    return a+b
